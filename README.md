@@ -1,5 +1,5 @@
 # Coffee-Quality-Data---2023-
-# Linear Regression Analysis#
+# Linear Regression Analysis
 İşlemlerin adımları şu şekildedir:
 
 İlk olarak, Aftertaste özelliği bağımsız değişken olarak X'e, Flavor özelliği bağımlı değişken olarak y'ye atanır.
